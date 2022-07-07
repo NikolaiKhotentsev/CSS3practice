@@ -1,0 +1,42 @@
+header h1{
+	color:red;
+}
+
+.clrblue{
+	width: 100px;
+	color: white;
+	background-color: blue;
+	margin-bottom: 100px;
+}
+
+header span{
+	color: red;
+}
+
+.next h2{
+	background-color: green;
+	color: white;
+}
+
+.skills h2{
+	background-color: green;
+	color: white;
+	padding: 40px 40px;
+}
+
+.forms {
+	max-width: 671px;
+}
+.forms p{
+	text-align: center;
+}
+
+.list li{
+	font-size: 32px;
+	border: 1px solid #000;
+}
+
+footer h2{
+	background-color: green;
+	color: white;
+}
